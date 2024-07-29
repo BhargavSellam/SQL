@@ -1,0 +1,3 @@
+Name,Functionality,Unnamed: 2
+ORDER BY,"Whenever we want to sort the records based on the columns stored in the tables of the SQL database, then we consider using the ORDER BY clause in SQL.",https://www.javatpoint.com/sql-order-by
+SQL group by,"The Group By statement is used for organizing similar data into groups. The data is further organized with the help of equivalent function. It means, if different rows in a precise column have the same values, it will arrange those rows in a group.",https://www.javatpoint.com/sql-group-by
